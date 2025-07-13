@@ -1,0 +1,11 @@
+{
+	"name": "MaloMartShopTheme",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/TheGremlinFriend/MaloMartRepoShop",
+	"description": "Replaces the Shop music with the music from Malo Mart in The Legend of Zelda: Twilight Princess",
+	"dependencies": [
+		"BepInEx-BepInExPack-5.4.2100",
+		"loaforc-loaforcsSoundAPI-2.0.6",
+                "loaforc-loaforcsSoundAPI_REPO-1.0.1"
+	]
+}
