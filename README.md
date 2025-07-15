@@ -1,4 +1,12 @@
 # MaloMartRepoShop
 Replaces the Shop music in Repo with the music from Malo Mart in The Legend of Zelda: Twilight Princess
 
-I'm new to git hub so I am unsure if I'm doing things right. I wanted to have Malo Mart Music from Legend of Zelda: Twilight Princess in the game Repo. But the two mods that I found that replace the music weren't working once loaded into the game. I looked at other files from shop music replacement mods that worked for me and attempted to recreate that with the Malo Mart music instead. I just wanted to upload it to Thunderstore so I could throw the mod into a multiplayer file for friends, which has lead me to GitHub. Hopefully it works and I did things correctly.
+#####   I'm new-ish to github so I am unsure if I'm doing things right. 
+######   I wanted to have Malo Mart Music from Legend of Zelda: Twilight Princess in a game. I was able to find two mods that worked well in game but unfortunatly they needed to be manually added to the mod folder. That usually wouldn't matter for me. But I was trying to update a modpack that is used for multiplayer games with friends. So I wanted something as simple as possible. Since I'm still new to all of this I looked at other files from music replacement mods that worked how I needed and attempted to recreate that with the Malo Mart music instead. 
+#####   Hopefully it works and I did things correctlly...?
+
+### Changelog
+#### 1.0.1 
+  + Attempted to fix file structure for replacement to work with install using Mod Manager as well
+#### 1.0.0
+  + Initial Release
