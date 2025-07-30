@@ -1,0 +1,12 @@
+{
+	"replacements": [
+		{
+			"matches": "*:shop music",
+			"sounds": [
+				{
+					"sound": "MaloMart.ogg"
+				}
+			]
+		}
+	]
+}
